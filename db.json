@@ -2,29 +2,6 @@
   "mensaje": "Operacion Exitosa.",
   "folio": "17020201110030616769",
   "resultado": {
-    "temas": [
-      {
-        "id": 8,
-        "descripcion": "Desviaciones en Capital Humano",
-        "subtema": {
-          "id": 30,
-          "descripcion": "robo",
-          "especifico": {
-            "id": 1,
-            "descripcion": "N/A"
-          }
-        },
-        "estatus": true,
-        "desviacion": true,
-        "responsables": [
-          {
-            "numeroEmpleado": "10032689",
-            "nombreCompleto": "Lourdes Maria Lopez Robelo",
-            "numeroEmpleadoJefe": "10032689",
-            "nombreCompletoJefe": "Lourdes Maria Lopez Robelo"
-          }
-        ]
-      }
-    ]
+    
   }
 }
