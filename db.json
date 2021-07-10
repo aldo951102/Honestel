@@ -23,17 +23,6 @@
             "numeroEmpleadoJefe": "10032689",
             "nombreCompletoJefe": "Lourdes Maria Lopez Robelo"
           }
-        ],
-        "sanciones": [
-          {
-            "numeroEmpleado": "10021221",
-            "nombreCompleto": "YESICA PIAGA ZAPO",
-            "id": 32,
-            "sancion": "ACTA ADMINISTRATIVA",
-            "numeroResponsable": 1213546,
-            "nombreCompletoResponsable": "YESICA PIAGA ZAPO",
-            "fechaHoraCompromiso": "2021-05-24"
-          }
         ]
       }
     ]
